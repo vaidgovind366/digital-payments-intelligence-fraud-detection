@@ -1,0 +1,7 @@
+Behavior,Flagged_Transactions,Fraud_Transactions,Fraud_Rate_%
+New Device,861,861,100.0
+Location Mismatch,797,797,100.0
+Unusual Hour,25076,1047,4.18
+IP Mismatch,293,293,100.0
+Failed Burst,205,205,100.0
+High Velocity,205,205,100.0
